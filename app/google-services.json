@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022187324704",
+    "firebase_url": "https://newchat-9bf7b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "newchat-9bf7b",
+    "storage_bucket": "newchat-9bf7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022187324704:android:23d9abd2691d70aec40345",
+        "android_client_info": {
+          "package_name": "com.casirro.chatapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022187324704-9dlnmp3j1amju4kuvgjgo3ccvvvv1cea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTvPIA-vN9ypiu43KmO5ImhbG0oepuAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022187324704-9dlnmp3j1amju4kuvgjgo3ccvvvv1cea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
